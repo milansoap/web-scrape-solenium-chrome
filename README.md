@@ -9,7 +9,7 @@ Installation
 - Open a terminal or command prompt and navigate to the project directory.
 - Run the following command to build the project and download its dependencies: mvn package
 
-** USAGE ** 
+Usage 
 
 - Run the following command to start the program - java -jar target/nba-stats-1.0.jar
 - Follow the prompts to enter the name of the NBA player you wish to search for.
@@ -17,6 +17,7 @@ Installation
 - The program will continue to prompt you for new searches until you enter "exit".
 
 Troubleshooting
+
 If the program is unable to find the player you are searching for, it may be because their name is not spelled correctly or they are not in the NBA Stats database.
 If the program crashes or throws an exception, try running it again. If the problem persists, make sure you have the latest version of Java and that all dependencies are up-to-date.
 Dependencies
